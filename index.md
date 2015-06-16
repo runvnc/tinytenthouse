@@ -1,3 +1,13 @@
+<link rel="stylesheet" href="css/main.css"/>
+<style>
+body, p, div, html {
+  font-family: 'Titillium Web', sans-serif;
+  color: #eee;
+  background-color: #333;
+}
+
+</style>
+
 # Tiny Tent House
 
 
