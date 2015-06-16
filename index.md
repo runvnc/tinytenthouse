@@ -12,7 +12,7 @@ body {
 
 </style>
 
-# Tiny Tent House
+# Tiny Passive Tent House
 
 This is similar to the idea of a yurt, but much
 simpler to construct.
@@ -23,7 +23,8 @@ simpler to construct.
 * Inexpensive
 * Comfortable temperature
 * Energy efficient
-* Electricity only for mobile devices
+* Solar electricity only for mobile devices including
+ventilation
 * Sustainable
 * No fuel costs for heating/cooking
 * Uses little water
@@ -34,9 +35,10 @@ The shape of the structure is very similar to a Viking tent.
 The tent is 16' x 12' and 10'8" in height.  The walls
 are angled at 60 degrees.
 
-The outer walls are (mostly white) canvas over 2" denim insulation.
+The outer walls are (mostly white) canvas over 
+airtight pvc plastic sheeting over 2" denim insulation.
 
-The 16' base beams are reinforced by 12' beams in the center and edges.
+The 16' side base beams attach to 12' beams in the center and edges.
 
 ## Illustration
 
