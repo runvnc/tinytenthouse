@@ -2,7 +2,7 @@
 <style>
 body, p, div, html {
   font-family: 'Titillium Web', sans-serif;
-  color: #aaadaa;
+  color: #aab8ac;
   background-color: #373737;
 }
 
