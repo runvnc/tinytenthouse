@@ -28,16 +28,7 @@ body {
 
 ## Illustration
 
-<script src="js/processing.min.js"></script>
+<iframe src="house.pdf"></iframe>
 
-
-<script>
-document.write('______');
-
-
-</script>
-
-
-Testing
 
 
