@@ -28,7 +28,7 @@ body {
 
 ## Illustration
 
-<iframe src="house.pdf"></iframe>
+<img src="house.png"/>
 
 
 
