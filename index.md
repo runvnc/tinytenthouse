@@ -54,21 +54,22 @@ of the tent.
 
 ## Temperature and ventilation
 
-There are three 2" PVC cooling tubes angling to about 6'
-down forming a wide V shape each totalling about 20' 
-in length.  These can be constructed by driving stakes
-into the ground at an angle.
-
-Air is drawn by convection towards the ventilation duct
-at the top of the tent.  The ridge of the tent has an additional
-2' wide strip of black canvas to help facilitate a
-temperature differential to promote air movement.
-
 Thermal mass is provided by a 32 gallon trash can used for
 extra water storage as well as at least 8 5 gallon water
 bottles.  
 
-## Bathroom
+There is a 2-3" cooling tube used to exchange heat
+with the ground to normalize inlet air temperature.
+
+### DIY USB Heat Recovery Ventilator
+
+* Lots of plastic straws
+* Hot exhaust straws cross over touching 
+cold inlet straws transferring heat
+* Two USB fans connected to battery packs
+
+
+# Bathroom
 
 Ie the rear is a composting toilet and shower/bathing
 area with a plastic container for a tub.
