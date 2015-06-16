@@ -2,8 +2,8 @@
 <style>
 body, p, div, html {
   font-family: 'Titillium Web', sans-serif;
-  color: #eecccc;
-  background-color: #374040;
+  color: #ccdddd;
+  background-color: #273030;
 }
 
 body {
