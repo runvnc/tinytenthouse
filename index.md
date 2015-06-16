@@ -7,7 +7,7 @@ body, p, div, html {
 }
 
 body {
- margin: 1em;
+ margin: 10em;
 }
 
 </style>
