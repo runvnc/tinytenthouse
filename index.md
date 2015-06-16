@@ -6,6 +6,10 @@ body, p, div, html {
   background-color: #333;
 }
 
+body {
+ margin: 1em;
+}
+
 </style>
 
 # Tiny Tent House
