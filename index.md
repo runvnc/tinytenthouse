@@ -2,8 +2,8 @@
 <style>
 body, p, div, html {
   font-family: 'Titillium Web', sans-serif;
-  color: #eee;
-  background-color: #333;
+  color: #aba;
+  background-color: #555;
 }
 
 body {
@@ -55,7 +55,7 @@ of the tent.
 ## Temperature and ventilation
 
 There are three 2" PVC cooling tubes angling to about 6'
-down forming a wide V shape totalling about 20' 
+down forming a wide V shape each totalling about 20' 
 in length.  These can be constructed by driving stakes
 into the ground at an angle.
 
